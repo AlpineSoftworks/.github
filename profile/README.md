@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/AlpineSoftworks" rel="noopener" target="_blank"><img width="150" src="Alpine.png" alt="Alpine logo"></a>
+  <a href="https://github.com/AlpineSoftworks" rel="noopener" target="_blank"><img width="150" src="AlpineNoBG.png" alt="Alpine logo"></a>
 </p>
 
 <h1 align="center">Alpine Softworks</h1>
