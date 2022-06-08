@@ -11,5 +11,5 @@
 * Discord: [Click Me](UNKNOWN)
 
 ## Mury
-Github Repository: [Click Me](https://github.com/AlpineSoftworks/Mury)\n
-Information: Mury is a [Discord](https://discord.com) bot that was developed by [kura](https://github.com/kuraise)\n
+* Github Repository: [Click Me](https://github.com/AlpineSoftworks/Mury)
+* Information: Mury is a Open-Sourced [Discord](https://discord.com) developed by us. 
