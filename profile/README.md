@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Alpine Softworks</h1>
->Alpine's developers has many projects under develop to make exploiting easier and here are some of the projects:
+Alpine's developers has many projects under develop to make exploiting easier and here are some of the projects:
 
 ## Project Alpine
 * Github Repository: [Click Me](https://github.com/AlpineSoftworks/Alpine)
