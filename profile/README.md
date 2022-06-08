@@ -8,7 +8,7 @@ Alpine's developers has many projects under develop to make exploiting easier an
 ## Alpine Hub / Project Alpine
 * Github Repository: [Click Me](https://github.com/AlpineSoftworks/Alpine)
 * Information: Alpine is a script hub on [Roblox](https://roblox.com/), it has a unique and sleek design and it has features no other script has.
-* Discord: [Click Me](UNKNOWN)
+* Discord: [Click Me](https://UNKNOWN)
 
 ## Mury
 * Github Repository: [Click Me](https://github.com/AlpineSoftworks/Mury)
