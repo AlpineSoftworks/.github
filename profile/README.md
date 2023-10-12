@@ -3,12 +3,14 @@
 </p>
 
 <h1 align="center">Alpine Technology</h1>
-Alpine's developers has many projects under develop and we thrive to make development easier and here are some of the projects:
+Alpine's developers have many projects under development (not much now) and we strive to make development easier here are some of the projects:
 
 ## Project Proton
 * GitHub Repository: [./Proton](https://github.com/AlpineTechnology/Proton)
-* Information: Proton is a tool on [Roblox](https://roblox.com/), it has a unique and sleek design and it has features no other development tool has.
-
+* Information: Proton is a tool on [Roblox](https://roblox.com/), it has a unique and sleek design and it has features no other development tool has. (Discontinued due to Byfron update blocking any sort of modifications from being used externally / internally)
 ## Rose Library
 * GitHub Repository: [./Rose](https://github/AlpineTechnology/Rose)
-* Information: Rose is a Open-Sourced User Interface Library for [Roblox](https://roblox.com) inspired on the Windows 11 Settings design, it brings features that no other library contains and is being constantly updated.
+* Information: Rose is an Open-Sourced User Interface Library for [Roblox](https://roblox.com) inspired by the Windows 11 Settings design, it brings features that no other library contains and is constantly updated. (Discontinued due to Byfron update blocking any sort of modifications from being used externally / internally)
+
+<h1 align="center">Disclaimer</h1>
+These contributions or works were developed for commissions and/or public use for testing. We do not take any responsibility for the outcomes of using these tools
